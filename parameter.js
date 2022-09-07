@@ -7,9 +7,14 @@ var taka = 300;
 
 // bringSingara(taka);
 
-function add(num1, num2){
-    console.log('going to add:', num1, num2);
-}
+// function add(num1, num2){
+//     // console.log('test:', num1, num2);
+//     var sum=num1+num2;
+//     console.log(sum)
+// }
+
+// add(2,3);
+
 
 // add(125, 96);
 

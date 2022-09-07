@@ -7,8 +7,12 @@ function startFan(){
 
 // call the function
 startFan();
-console.log('Waking up in the morning')
 startFan();
-console.log('Eating lunch');
-console.log('Watching JS tutorial')
+
 startFan();
+startFan();
+// console.log('Waking up in the morning')
+// startFan();
+// console.log('Eating lunch');
+// console.log('Watching JS tutorial')
+// startFan();

@@ -2,8 +2,11 @@ var student = {
     id: 115, 
     name: 'Solamin Khan', 
     class: 9, 
-    marks: 98
+    marks: 98,
+    isSerius:true
 }
+
+var country=["bd","india"]
 
 var mobile = {
     brand: 'Samsung',
@@ -21,5 +24,7 @@ var myComputer = {
 }
 
 console.log(myComputer.processor);
-myComputer.processor = 'i79';
-console.log(myComputer)
+console.log(myComputer.brand);
+console.log(myComputer['color'])
+// myComputer.processor = 'i79';
+// console.log(myComputer)
